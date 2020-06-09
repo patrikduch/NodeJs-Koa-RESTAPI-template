@@ -1,0 +1,10 @@
+node_modules/
+typings/
+yarn.lock
+yarn-error.log
+dist/server.js
+dist/node.log
+package-lock.json
+temp/package.json
+temp/server.js
+dist/server.js.LICENSE.txt
